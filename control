@@ -1,0 +1,8 @@
+Package: com.mins.apptest5
+Name: AppTest5
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: apptest5
+Author: apptest5
+Section: Utilities
